@@ -1,4 +1,4 @@
 paar paar paar abcd
-rida
+rida rida
 teksti
 lol
